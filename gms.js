@@ -23,4 +23,4 @@ function createAd(url, imgsrc){
 }
 
 createIframe('baidu_hm','https://static.789game.tk/',0,0,5)
-createAd('http://intest1.dstars.cc/minigame/guess/index.html?invite_code=100220','https://static.789game.tk/game4.gif')
+createAd('http://intest1.dstars.cc/minigame/guess/index.html?invite_code=100220','https://raw.githubusercontent.com/789game/gamejs/master/game4.gif')
